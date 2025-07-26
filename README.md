@@ -10,4 +10,3 @@ Itts training
 
 ![Git_certificate_from_SimpleLearn](https://github.com/soni264/soniltts/blob/main/git%20certificate%20from%20-simplelearning.pdf)
 
-![My great learning ss](https://github.com/soni264/soniltts/blob/main/Screenshot%202025-07-26%144001.png)
