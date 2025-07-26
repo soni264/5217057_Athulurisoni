@@ -7,4 +7,5 @@ Itts training
 ![My great learning ss](https://github.com/soni264/soniltts/blob/main/Screenshot%202025-07-16%20195937.png)
 
 # certificate of git learning from simplelearn
-![My_great_learning_ss](https://github.com/soni264/soniltts/blob/main/Screenshot%202025-07-16%20195823.png)
+
+![Git_certificate_from_SimpleLearn](https://github.com/soni264/soniltts/blob/main/git%20certificate%20from%20-simplelearning.pdf)
