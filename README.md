@@ -2,7 +2,7 @@
 Itts training
 
 ## 1. Agile Assessment Screenshot
-![Agile Screenshot](https://raw.githubusercontent.com/soni264/5217057_Athulurisoni/main/Screenshot%202025-07-16%20195823.png)
+<img src="https://github.com/soni264/soniltts/blob/4ea1a21aa33f3f33166f5953b1272fea8c4c58d5/5217057_Athuluri%20soni_Agiless_1.png" alt="image">
 
 ## 2. Great Learning - Another Screenshot
 ![Great Learning SS](https://raw.githubusercontent.com/soni264/5217057_Athulurisoni/main/Screenshot%202025-07-16%20195937.png)
